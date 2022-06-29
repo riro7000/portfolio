@@ -1,123 +1,78 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# CAREER OBJECTIVE 
+Results-oriented Computer Science major (9.13GPA)completed 
+attending Thakur collage of science and Commerce, with 2 years of
+work experience. Aiming to leverage a proven knowledge of
+prototype, research and development, and quality assurance skills to
+successfully fill the - role at your company. Frequently praised as
+hard-working by my peers, I can be relied upon to help your company
+achieve its goals.
+## EXPERIENCE 
+## REAL ESTATE
+Investment care, Mumbai, Maharashtra / Apr 2020 - Nov 2021
 
-[Link to another page](./another-page.html).
+• Obtain agreements from property owners to place properties for
+sale with real estate firms.
 
-There should be whitespace between paragraphs.
+• Monitor fulfillments of purchase contract terms to ensure that
+they are handled in a timely manner.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+• Compare a property with similar properties that have recently
+sold to determine its competitive market price.
 
-# Header 1
+Act as an intermediary in negotiations between buyers and
+sellers over property prices and settlement details and during
+the closing of sales,
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+• Generate lists of properties for sale, their locations, descriptions,
+and available financing options, using computers.
 
-## Header 2
+• Maintain knowledge of real estate law, local economies, fair
+housing laws, types of available mortgages, financing options,
+and government programs.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Arrange for financing of property purchases.
+Give buyers virtual tours of properties in which they are
+interested, using computers.
 
-### Header 3
+• Maintain awareness of current income tax regulations, local
+zoning, building and tax laws, and growth possibilities of the area
+where a property is located
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## TEACHER  
+Akash learning Center, Mumbai, Maharashtra / April 18 - March 2019 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+•Instruct through lectures, discussions, and demonstrations in
+one or more subjects, such as English, mathematics, or social
+studies.
 
-#### Header 4
+• Adapt teaching methods and instructional materials to meet
+students' varying needs and interests
+Assign and grade class work and homework.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+• Plan and conduct activities for a balanced program of instruction,
+demonstration, and work time that provides students with
+opportunities to observe, question, and investigate
 
-##### Header 5
+## Education
+•IIIT BANGLORE 
+PG DIPLOMA IN MACHINE LEARNING 
+(present)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+•THAKUR COLLAGE OF
+SCIENCE AND COMMERCE
+Bachelor of Science (B.S.)
+Mumbai, Maharashtra 
+(graduated Mar 2022) 
 
-###### Header 6
+•SHREE T.P BHATIA COLLAGE
+OF SCIENCE
+Mumbai, Maharashtra
+Junior Collage
+(Mar 2018)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+•ST.FRANCIS D'ASSISI HIGH
+SCHOOL
+Mumbai, Maharashtra
+High School
+(Mar 2016)
